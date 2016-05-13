@@ -1,5 +1,5 @@
-![介绍](http://12450.xyz/archives/code/php/laravel/2016/04/09/73.html)
-![演示地址](http://12450.xyz/laravel/blog/public/articles)
+介绍：http://12450.xyz/archives/code/php/laravel/2016/04/09/73.html
+演示地址：http://12450.xyz/laravel/blog/public/articles
 
 ## Laravel PHP Framework
 
